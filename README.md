@@ -1,4 +1,6 @@
+**[我的Blog发布地址](https://zephyrbd.github.io/p/cuitappdesignrace/)**
 # 智记清单（MCZS To Do）项目说明
+![智记清单](https://zephyrbd.github.io/images/cuitDRace/img5.png)
 ## 一、项目概述
 智记清单是一款专为大学生和打工人设计的待办清单程序。它具备提醒功能，能有效帮助用户合理安排事务，其界面直观简洁，易于操作。在设计上充分考虑了用户的时间管理需求及使用体验，还通过随时间变化的背景为程序增添了趣味性。
 ## 二、设计思路
@@ -20,10 +22,14 @@
     - 类库资源：丰富类库用于创建各类可视化组件，如 QPushButton 类创建按钮。
     - 用户体验支持：如实现背景切换动画，增强趣味性与体验感。
 ## 四、作品特色
-1. 提醒功能：借助 Windows 系统通知，在 Qtimer 定时器检测下，以醒目的系统通知弹出提醒事项内容与地点。
+1. 提醒功能：借助 Windows 系统通知，在 Qtimer 定时器检测下，以醒目的系统通知弹出提醒事项内容与地点。  
+![提醒功能](https://zephyrbd.github.io/images/cuitDRace/img2.png)
 2. 背景切换：利用 QDateTime 变量、Qtimer 定时器和 Switch-case 结构实现一天内背景随时间切换壁纸，且有多组可选。
+![背景切换](https://zephyrbd.github.io/images/cuitDRace/img3.gif)
 3. 图形化界面：基于 Qt 框架打造，布局合理、按钮一目了然，易于上手操作。
+![图形化界面](https://zephyrbd.github.io/images/cuitDRace/img1.png)
 ## 五、项目信息
+![团队Logo](https://zephyrbd.github.io/images/cuitDRace/img4.png)
 1. 团队成员：
     - 项目主导及核心代码：ZephyrBD
     - JSON 转换方法：puuuuh
